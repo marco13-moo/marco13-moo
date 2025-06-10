@@ -9,7 +9,7 @@ Senior DevOps Engineer
 * 🚀  I'm currently working on [CI/CD Learning](https://github.com/marco13-moo/marco13-moo.github.io)
 * 🧠  I'm learning CI/CD
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
