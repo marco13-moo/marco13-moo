@@ -19,10 +19,10 @@ Senior DevOps Engineer
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/marco13-moo" target="_blank" rel="noreferrer">
+  <a href="https://github.com/marco13-moo/marco13-moo.github.io" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
     </picture>
   </a>
   <a href="https://github.com/marco13-moo/marco13-moo.github.io" target="_blank" rel="noreferrer">
@@ -45,11 +45,12 @@ Senior DevOps Engineer
   </a>
   <a href="https://github.com/marco13-moo/marco13-moo.github.io" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" />
     </picture>
   </a>
 </p>
+
 
 
 ### Badges
