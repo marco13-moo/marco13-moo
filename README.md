@@ -33,12 +33,6 @@ Senior DevOps Engineer
   </a>
   <a href="https://github.com/marco13-moo/marco13-moo.github.io" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://github.com/marco13-moo/marco13-moo.github.io" target="_blank" rel="noreferrer">
-    <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
     </picture>
@@ -50,7 +44,6 @@ Senior DevOps Engineer
     </picture>
   </a>
 </p>
-
 
 
 ### Badges
