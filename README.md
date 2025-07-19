@@ -4,10 +4,9 @@ Hi 👋 My name is Marco
 Senior DevOps Engineer
 -------------
 
-* 🌍  
-* ✉️  You can contact me at []
-* 🚀  I'm currently working on [CI/CD Learning](https://github.com/marco13-moo/marco13-moo.github.io)
-* 🧠  I'm learning CI/CD
+* ✉️  You can contact me at [marcomoo13@proton.me]
+* 🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
+* 🧠  I'm learning CI/CD with GitHub Actions
 
 ### Tech Stack
 
