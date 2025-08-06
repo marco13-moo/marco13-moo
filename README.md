@@ -14,77 +14,76 @@ Senior DevOps Engineer
 <p align="left">
   <!-- Automation -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="36" height="36" alt="Bash" />
   </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ansible-colored.svg" width="36" height="36" alt="Ansible" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="36" height="36" alt="Ansible" />
   </a>
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="36" height="36" alt="Go" />
   </a>
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" />
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure" />
   </a>
   <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer">
-    <!-- No IBM Cloud icon in repo, so you can use a fallback image or custom icon -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Cloud" />
   </a>
 
   <!-- CI/CD -->
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="36" height="36" alt="Jenkins" />
   </a>
   <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/travisci-colored.svg" width="36" height="36" alt="Travis CI" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TravisCI-Mascot-1.png" width="36" height="36" alt="Travis CI" />
   </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/githubactions-colored.svg" width="36" height="36" alt="GitHub Actions" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/GitHub_Actions_logo.svg" width="36" height="36" alt="GitHub Actions" />
   </a>
 
   <!-- Containerization -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="36" height="36" alt="Docker" />
   </a>
-  <!-- RHOV (Red Hat Open Virtualization) does not have a public icon in this repo -->
 
   <!-- IaC -->
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="36" height="36" alt="Terraform" />
   </a>
   <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-    <!-- No CloudFormation icon, so using AWS icon again if needed -->
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="CloudFormation" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Aws-cloudformation.svg" width="36" height="36" alt="CloudFormation" />
   </a>
   <a href="https://www.chef.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chef-colored.svg" width="36" height="36" alt="Chef" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Chef_logo.svg" width="36" height="36" alt="Chef" />
   </a>
 
   <!-- Monitoring -->
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grafana-colored.svg" width="36" height="36" alt="Grafana" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="36" height="36" alt="Grafana" />
   </a>
-  <!-- No icons in this repo for Nagios and Splunk; consider adding custom SVGs -->
-
-  <!-- Networking -->
-  <!-- VPCs, Firewalls, IAM are concepts — you may want to group them under AWS or use badges -->
+  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Nagios_logo.svg" width="36" height="36" alt="Nagios" />
+  </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Splunk_logo.svg" width="36" height="36" alt="Splunk" />
+  </a>
 
   <!-- Package Management -->
   <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer">
-    <!-- No Artifactory icon in this repo; using a fallback -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/JFrog_logo.svg" width="36" height="36" alt="Artifactory" />
   </a>
 </p>
+
 
 
 
