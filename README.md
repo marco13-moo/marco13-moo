@@ -10,81 +10,80 @@ Senior DevOps Engineer
 
 ### Tech Stack
 
-
 <p align="left">
-  <!-- Automation -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="36" height="36" alt="Bash" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="36" height="36" alt="Ansible" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="36" height="36" alt="Go" />
-  </a>
 
-  <!-- Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure" />
-  </a>
-  <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="36" height="36" alt="IBM Cloud" />
-  </a>
+<!-- Automation -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://golang.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+</a>
 
-  <!-- CI/CD -->
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="36" height="36" alt="Jenkins" />
-  </a>
-  <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TravisCI-Mascot-1.png" width="36" height="36" alt="Travis CI" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/GitHub_Actions_logo.svg" width="36" height="36" alt="GitHub Actions" />
-  </a>
+<!-- Cloud -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white&style=for-the-badge" />
+</a>
 
-  <!-- Containerization -->
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="Kubernetes" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="36" height="36" alt="Docker" />
-  </a>
+<!-- CI/CD -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis-ci&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
+</a>
 
-  <!-- IaC -->
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="36" height="36" alt="Terraform" />
-  </a>
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Aws-cloudformation.svg" width="36" height="36" alt="CloudFormation" />
-  </a>
-  <a href="https://www.chef.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Chef_logo.svg" width="36" height="36" alt="Chef" />
-  </a>
+<!-- Containerization -->
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</a>
 
-  <!-- Monitoring -->
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="36" height="36" alt="Grafana" />
-  </a>
-  <a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Nagios_logo.svg" width="36" height="36" alt="Nagios" />
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Splunk_logo.svg" width="36" height="36" alt="Splunk" />
-  </a>
+<!-- IaC -->
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/AWS%20CloudFormation-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.chef.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Chef-F09820?logo=chef&logoColor=white&style=for-the-badge" />
+</a>
 
-  <!-- Package Management -->
-  <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/JFrog_logo.svg" width="36" height="36" alt="Artifactory" />
-  </a>
+<!-- Monitoring -->
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Nagios-269539?logo=nagios&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge" />
+</a>
+
+<!-- Package Management -->
+<a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Artifactory-4D4D4D?logo=jfrog&logoColor=white&style=for-the-badge" />
+</a>
+
 </p>
-
-
 
 
 
