@@ -131,5 +131,15 @@ Senior DevOps Engineer
 
 </div>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marco13-moo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=marco13-moo&theme=tokyonight" alt="marco13-moo" />
+</div>
+
+
 
 
