@@ -123,22 +123,49 @@ Senior DevOps Engineer
 
 ## 📈 Recent Activity
 
-<div align="center">
-
-<a href="https://github.com/marco13-moo">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco13-moo&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Marco's Activity Graph" />
-</a>
-
-</div>
+<!-- ===================== GITHUB STATS ===================== -->
 
 <div align="center">
+  <!-- Overall GitHub stats -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marco13-moo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+
+  <!-- Top languages -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=marco13-moo&theme=tokyonight" alt="marco13-moo" />
+  <!-- GitHub streak -->
+  <img src="https://streak-stats.demolab.com/?user=marco13-moo&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco13-moo&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Metrics (deep insights) -->
+  <img 
+    src="https://raw.githubusercontent.com/marco13-moo/github-metrics/main/metrics.svg" 
+    alt="GitHub Metrics"
+    style="max-width:100%; height:auto;"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=marco13-moo&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<!-- ===================== END GITHUB STATS ===================== -->
 
 
 
