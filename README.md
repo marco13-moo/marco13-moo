@@ -117,12 +117,6 @@ Senior DevOps Engineer
 </p>
 
 
-## 📊 GitHub Metrics
-
-![GitHub Metrics](https://raw.githubusercontent.com/marco13-moo/github-metrics/main/metrics.svg)
-
-## 📈 Recent Activity
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -132,33 +126,6 @@ Senior DevOps Engineer
   <!-- Top languages -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub streak (working version) -->
-  <img src="https://streak-stats.demolab.com/?user=marco13-moo&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco13-moo&theme=tokyo-night&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Metrics (deep insights) -->
-  <img 
-    src="https://raw.githubusercontent.com/marco13-moo/github-metrics/main/metrics.svg" 
-    alt="GitHub Metrics"
-    style="max-width:100%; height:auto;"
-  />
-</div>
-
-<br/>
 
 <div align="center">
   <!-- GitHub trophies -->
