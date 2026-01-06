@@ -123,7 +123,7 @@ Senior DevOps Engineer
 
 ## 📈 Recent Activity
 
-<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
 
 <div align="center">
   <!-- Overall GitHub stats -->
@@ -136,7 +136,7 @@ Senior DevOps Engineer
 <br/>
 
 <div align="center">
-  <!-- GitHub streak -->
+  <!-- GitHub streak (working version) -->
   <img src="https://streak-stats.demolab.com/?user=marco13-moo&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -164,9 +164,5 @@ Senior DevOps Engineer
   <!-- GitHub trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=marco13-moo&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-
-<!-- ===================== END GITHUB STATS ===================== -->
-
-
 
 
