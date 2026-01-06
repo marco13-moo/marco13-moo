@@ -120,7 +120,8 @@ Senior DevOps Engineer
 ### My GitHub Stats
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](./metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/marco13-moo/github-metrics/main/metrics.svg)
+
 
 
 <a href="https://github.com/marco13-moo"><img src="https://github-readme-stats.vercel.app/api?username=marco13-moo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marco's GitHub stats" /></a>
