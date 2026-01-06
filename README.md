@@ -121,4 +121,15 @@ Senior DevOps Engineer
 
 ![GitHub Metrics](https://raw.githubusercontent.com/marco13-moo/github-metrics/main/metrics.svg)
 
+## 📈 Recent Activity
+
+<div align="center">
+
+<a href="https://github.com/marco13-moo">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marco13-moo&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Marco's Activity Graph" />
+</a>
+
+</div>
+
+
 
