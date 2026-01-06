@@ -117,7 +117,7 @@ Senior DevOps Engineer
 </p>
 
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <!-- Overall GitHub stats -->
@@ -126,10 +126,3 @@ Senior DevOps Engineer
   <!-- Top languages -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
-
-<div align="center">
-  <!-- GitHub trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=marco13-moo&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-
