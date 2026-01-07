@@ -119,10 +119,28 @@ Senior DevOps Engineer
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- Overall GitHub stats -->
-  <img height="180em" src="https://github-readme-stats-rosy-two-48.vercel.app/api?username=marco13-moo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+## 📊 GitHub Analytics
 
-  <!-- Top languages -->
-  <img height="180em" src="https://github-readme-stats-rosy-two-48.vercel.app/api/top-langs/?username=marco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marco13-moo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=abdihakim-said&theme=tokyonight" alt="marco13-moo" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marco13-moo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdihakim-said&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-said" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
