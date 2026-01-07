@@ -130,6 +130,11 @@ Senior DevOps Engineer
   <img src="https://streak-stats.demolab.com/?user=abdihakim-said&theme=tokyonight" alt="marco13-moo" />
 </div>
 
+<div align="center">
+  <img src="https://githubstreakcard.vercel.app/api/card-with-avatar?username=marco13-moo&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=1" />
+</div>
+
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -144,3 +149,5 @@ Senior DevOps Engineer
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
+
+
