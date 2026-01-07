@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Marco+%F0%9F%91%8B;Platform+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-✉️  You can contact me at [marcomoo13@proton.me]
-🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
-🧠  I'm learning CI/CD with GitHub Actions
+* ✉️  You can contact me at [marcomoo13@proton.me]
+* 🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
+* 🧠  I'm learning CI/CD with GitHub Actions
 
 ### Tech Stack
 
@@ -119,12 +119,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marco13-moo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marco13-moo&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
-
-<div align="center">
-  <img src="https://githubstreakcard.vercel.app/api/card-with-avatar?username=marco13-moo&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=1" />
-</div>
-
-
 ---
 
 
