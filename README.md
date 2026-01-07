@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Marco+%F0%9F%91%8B;Platform+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-* ✉️  You can contact me at [marcomoo13@proton.me]
-* 🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
-* 🧠  I'm learning CI/CD with GitHub Actions
+✉️  You can contact me at [marcomoo13@proton.me]
+🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
+🧠  I'm learning CI/CD with GitHub Actions
 
 ### Tech Stack
 
@@ -114,8 +114,6 @@
 
 
 ### 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marco13-moo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
