@@ -127,7 +127,7 @@ Senior DevOps Engineer
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdihakim-said&theme=tokyonight" alt="marco13-moo" />
+  <img src="https://streak-stats.demolab.com/?user=marco13-moo&theme=tokyonight" alt="marco13-moo" />
 </div>
 
 <div align="center">
@@ -137,17 +137,5 @@ Senior DevOps Engineer
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marco13-moo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdihakim-said&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-said" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 
