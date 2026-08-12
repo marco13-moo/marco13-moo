@@ -1,123 +1,130 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Marco+%F0%9F%91%8B;Platform+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-
-### Tech Stack
-
-<p align="left">
-
-<!-- Automation -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://golang.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-</a>
-
-<!-- Cloud -->
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white&style=for-the-badge" />
-</a>
-
-<!-- CI/CD -->
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travis-ci&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
-</a>
-
-<!-- Containerization -->
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-</a>
-
-<!-- IaC -->
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/AWS%20CloudFormation-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.chef.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Chef-F09820?logo=chef&logoColor=white&style=for-the-badge" />
-</a>
-
-<!-- Monitoring -->
-<a href="https://grafana.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.nagios.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Nagios-269539?logo=nagios&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge" />
-</a>
-
-<!-- Package Management -->
-<a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Artifactory-4D4D4D?logo=jfrog&logoColor=white&style=for-the-badge" />
-</a>
-
-</p>
-
-
-
-### Socials
-
-<p align="left">
-  <a href="https://github.com/marco13-moo/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://dev.to/marco13moo" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" />
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" width="32" height="32" alt="DEV Community" />
-    </picture>
-  </a>
-  <a href="https://stackoverflow.com/users/31222266/marco-moo" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://twitter.com/DMarco1600" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
-
-
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marco13-moo&theme=tokyonight" alt="Marco's GitHub stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marco13-moo&theme=tokyonight" alt="Marco's most used languages"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=42&duration=3000&pause=1000&color=C9F46D&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I'm+Marco+%F0%9F%91%8B;Platform+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Building+Scalable+Systems+%F0%9F%9A%80" alt="Hi there, I'm Marco — Platform Engineer" />
+
+<br>
+
+<samp>CLOUD FOUNDATIONS&nbsp;&nbsp;◆&nbsp;&nbsp;DELIVERY PIPELINES&nbsp;&nbsp;◆&nbsp;&nbsp;AUTOMATION</samp>
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-C9F46D?style=for-the-badge&labelColor=C9F46D&color=C9F46D)](https://marco13-moo.github.io/)
+[![Email](https://img.shields.io/badge/LET'S_TALK-FF7557?style=for-the-badge&logo=protonmail&logoColor=000000&labelColor=FF7557&color=FF7557)](mailto:marcomoo13@proton.me)
+
 </div>
 
+---
 
-* ✉️  You can contact me at [marcomoo13@proton.me]
-* 🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
-* 🧠  I'm learning CI/CD with GitHub Actions
+<samp>01 / TECH STACK</samp>
 
+## From commit to production.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<samp>AUTOMATION</samp><br><br>
+
+[![Python](https://img.shields.io/badge/Python-11141B?style=flat-square&logo=python&logoColor=C9F46D)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-11141B?style=flat-square&logo=gnu-bash&logoColor=C9F46D)](https://www.gnu.org/software/bash/)
+[![Ansible](https://img.shields.io/badge/Ansible-11141B?style=flat-square&logo=ansible&logoColor=C9F46D)](https://www.ansible.com/)
+[![Go](https://img.shields.io/badge/Go-11141B?style=flat-square&logo=go&logoColor=C9F46D)](https://golang.org/)
+
+</td>
+<td valign="top" width="50%">
+
+<samp>CLOUD</samp><br><br>
+
+[![AWS](https://img.shields.io/badge/AWS-11141B?style=flat-square&logo=amazonwebservices&logoColor=65D9D3)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-11141B?style=flat-square&logo=microsoftazure&logoColor=65D9D3)](https://azure.microsoft.com/)
+[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-11141B?style=flat-square&logo=ibmcloud&logoColor=65D9D3)](https://www.ibm.com/cloud)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<samp>CI / CD</samp><br><br>
+
+[![Jenkins](https://img.shields.io/badge/Jenkins-11141B?style=flat-square&logo=jenkins&logoColor=FF7557)](https://www.jenkins.io/)
+[![Travis CI](https://img.shields.io/badge/Travis_CI-11141B?style=flat-square&logo=travisci&logoColor=FF7557)](https://travis-ci.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-11141B?style=flat-square&logo=githubactions&logoColor=FF7557)](https://github.com/features/actions)
+
+</td>
+<td valign="top" width="50%">
+
+<samp>CONTAINERS</samp><br><br>
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-11141B?style=flat-square&logo=kubernetes&logoColor=65D9D3)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-11141B?style=flat-square&logo=docker&logoColor=65D9D3)](https://www.docker.com/)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<samp>INFRASTRUCTURE AS CODE</samp><br><br>
+
+[![Terraform](https://img.shields.io/badge/Terraform-11141B?style=flat-square&logo=terraform&logoColor=C9F46D)](https://www.terraform.io/)
+[![CloudFormation](https://img.shields.io/badge/CloudFormation-11141B?style=flat-square&logo=amazonwebservices&logoColor=C9F46D)](https://aws.amazon.com/cloudformation/)
+[![Chef](https://img.shields.io/badge/Chef-11141B?style=flat-square&logo=chef&logoColor=C9F46D)](https://www.chef.io/)
+
+</td>
+<td valign="top" width="50%">
+
+<samp>OBSERVABILITY</samp><br><br>
+
+[![Grafana](https://img.shields.io/badge/Grafana-11141B?style=flat-square&logo=grafana&logoColor=FF7557)](https://grafana.com/)
+[![Nagios](https://img.shields.io/badge/Nagios-11141B?style=flat-square&logo=nagios&logoColor=FF7557)](https://www.nagios.org/)
+[![Splunk](https://img.shields.io/badge/Splunk-11141B?style=flat-square&logo=splunk&logoColor=FF7557)](https://www.splunk.com/)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+<samp>PACKAGE MANAGEMENT</samp><br><br>
+
+[![Artifactory](https://img.shields.io/badge/Artifactory-11141B?style=flat-square&logo=jfrog&logoColor=65D9D3)](https://jfrog.com/artifactory/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<samp>02 / LIVE GITHUB SIGNAL</samp>
+
+## The work is the proof.
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marco13-moo&theme=tokyonight" alt="Marco's GitHub statistics">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marco13-moo&theme=tokyonight" alt="Marco's most-used languages">
+</div>
+
+---
+
+<samp>03 / CURRENT FOCUS</samp>
+
+> 🚀 I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)<br>
+> 🧠 I'm learning CI/CD with GitHub Actions<br>
+> ✉️ You can contact me at [marcomoo13@proton.me](mailto:marcomoo13@proton.me)
+
+---
+
+<samp>04 / CONNECT</samp>
+
+## Let’s build the foundation.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-11141B?style=for-the-badge&logo=github&logoColor=C9F46D)](https://github.com/marco13-moo/)
+[![DEV](https://img.shields.io/badge/DEV-11141B?style=for-the-badge&logo=devdotto&logoColor=65D9D3)](https://dev.to/marco13moo)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-11141B?style=for-the-badge&logo=stackoverflow&logoColor=FF7557)](https://stackoverflow.com/users/31222266/marco-moo)
+[![X / Twitter](https://img.shields.io/badge/X_/_Twitter-11141B?style=for-the-badge&logo=x&logoColor=F4F6F2)](https://twitter.com/DMarco1600)
+
+<br>
+
+<samp>PLATFORM ENGINEERING · DEVOPS · MULTI-CLOUD INFRASTRUCTURE</samp>
+
+</div>
