@@ -88,10 +88,10 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://hashnode.com/@marcomoo13" target="_blank" rel="noreferrer">
+  <a href="https://dev.to/marco13moo" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" />
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devdotto.svg" width="32" height="32" alt="DEV Community" />
     </picture>
   </a>
   <a href="https://stackoverflow.com/users/31222266/marco-moo" target="_blank" rel="noreferrer">
@@ -120,5 +120,4 @@
 * ✉️  You can contact me at [marcomoo13@proton.me]
 * 🚀  I'm currently working on [CI/CD Automation](https://github.com/marco13-moo/cron-actions)
 * 🧠  I'm learning CI/CD with GitHub Actions
-
 
