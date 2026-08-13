@@ -114,9 +114,14 @@
 <tr>
 <td valign="top" colspan="2" width="66%">
 
-<samp>ARTIFACTS</samp><br><br>
+<samp>SOFTWARE SUPPLY CHAIN</samp><br><br>
 
 [![Artifactory](https://img.shields.io/badge/Artifactory-11141B?style=flat-square&logo=jfrog&logoColor=65D9D3)](https://jfrog.com/artifactory/)
+![Container registries](https://img.shields.io/badge/Container_Registries-11141B?style=flat-square&logo=docker&logoColor=65D9D3)
+[![Helm](https://img.shields.io/badge/Helm_Charts-11141B?style=flat-square&logo=helm&logoColor=65D9D3)](https://helm.sh/)
+![Artifact promotion](https://img.shields.io/badge/Artifact_Promotion-11141B?style=flat-square&logo=semanticrelease&logoColor=65D9D3)
+![Dependency management](https://img.shields.io/badge/Dependency_Management-11141B?style=flat-square&logo=dependabot&logoColor=65D9D3)
+![SBOM and provenance](https://img.shields.io/badge/SBOM_%26_Provenance-11141B?style=flat-square&logo=sigstore&logoColor=65D9D3)
 
 </td>
 <td valign="top" width="34%">
